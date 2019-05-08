@@ -1,0 +1,23 @@
+/*美化*/
+/*.test {
+  background-color: #f444;
+}*/
+
+.swiper-tab {
+  width: 100%;
+  border-bottom: 2rpx solid rgb(215, 219, 215);
+	text-align: center;
+  line-height:78rpx;
+}
+
+.swiper-tab-list {
+  font-size: 38rpx;
+  display: inline-block;
+  width: 33.33%;
+  color:black;
+}
+
+.on {
+  color: #1AAD19;
+  border-bottom: 2rpx solid #1AAD19;
+}

@@ -1,0 +1,30 @@
+.userinfo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.userinfo-avatar {
+  width: 170rpx;
+  height: 170rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+  font-size: 15pt;
+}
+
+.container {
+  height: 400rpx;
+}
+
+.logout {
+  background: none;
+  color: #DC1B1B;
+  font-size: 11pt;
+  text-decoration: underline;
+}
+.logout::after {
+  border: none;
+}
